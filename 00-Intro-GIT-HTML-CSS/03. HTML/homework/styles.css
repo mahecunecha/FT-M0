@@ -1,0 +1,20 @@
+h1{
+    color:salmon;
+
+}
+img{
+    width: 400px;
+}
+#thirdDive{
+    height: 600px;
+    width: 400px;
+    padding: 50px;
+   background-color:burlywood;
+   border: 20px solid #126888 ;
+
+}
+#spanid{
+    font-size: 18px;
+    margin: 50px;
+   
+}
