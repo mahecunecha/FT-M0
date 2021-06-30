@@ -1,3 +1,10 @@
+body{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    background-image: url("https://images.alphacoders.com/252/thumb-1920-252231.jpg");
+}
 h1{
     color:salmon;
 
